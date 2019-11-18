@@ -1,8 +1,6 @@
 import React from 'react';
 import { View } from 'react-native';
 
-import './config/ReactotronConfig';
-
-export default function App() {
+export default function User() {
   return <View />;
 }
